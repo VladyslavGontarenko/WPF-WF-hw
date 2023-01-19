@@ -1,0 +1,11 @@
+C:\Users\ирина\Desktop\GitHub\WPF-WF-hw\HW.0\HW.0\bin\Debug\HW.0.exe.config
+C:\Users\ирина\Desktop\GitHub\WPF-WF-hw\HW.0\HW.0\bin\Debug\HW.0.exe
+C:\Users\ирина\Desktop\GitHub\WPF-WF-hw\HW.0\HW.0\bin\Debug\HW.0.pdb
+C:\Users\ирина\Desktop\GitHub\WPF-WF-hw\HW.0\HW.0\obj\Debug\HW.0.csproj.AssemblyReference.cache
+C:\Users\ирина\Desktop\GitHub\WPF-WF-hw\HW.0\HW.0\obj\Debug\HW.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\ирина\Desktop\GitHub\WPF-WF-hw\HW.0\HW.0\obj\Debug\HW._0.Form1.resources
+C:\Users\ирина\Desktop\GitHub\WPF-WF-hw\HW.0\HW.0\obj\Debug\HW._0.Properties.Resources.resources
+C:\Users\ирина\Desktop\GitHub\WPF-WF-hw\HW.0\HW.0\obj\Debug\HW.0.csproj.GenerateResource.cache
+C:\Users\ирина\Desktop\GitHub\WPF-WF-hw\HW.0\HW.0\obj\Debug\HW.0.csproj.CoreCompileInputs.cache
+C:\Users\ирина\Desktop\GitHub\WPF-WF-hw\HW.0\HW.0\obj\Debug\HW.0.exe
+C:\Users\ирина\Desktop\GitHub\WPF-WF-hw\HW.0\HW.0\obj\Debug\HW.0.pdb
